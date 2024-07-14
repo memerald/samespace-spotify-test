@@ -1,0 +1,22 @@
+.player-container {
+  .rhap_container {
+    background-color: transparent;
+    padding: 0;
+  }
+
+  .rhap_time {
+    display: none;
+  }
+
+  .rhap_progress-section {
+    width: 100%;
+  }
+
+  .rhap_volume-bar-area {
+    display: none;
+  }
+
+  .rhap_volume-container {
+    flex: 0;
+  }
+}
